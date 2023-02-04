@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Mrmeeseeks-123
 - 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning scikit learn
 - 💞️ I’m looking to collaborate on data science and ML related projects
+- you can follow me on [twitter](https://twitter.com/ch1nmay_dixit) where i post about whats my work in progress 
 
 
 <!---
