@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mrmeeseeks-123
+- 👋 Hi, I’m Chinmay Dixit @Mrmeeseeks-123
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning scikit learn
 - 💞️ I’m looking to collaborate on data science and ML related projects
